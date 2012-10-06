@@ -20,3 +20,8 @@ git repository.
 
 Note: I used the icon file from the cinnamon Brightness applet :) Thanks for
 the icon.
+
+
+= Installation =
+copy the folder xgamma@mrkschan.gmail.com/ to ~/.local/share/cinnamon/applets/
+`cp -a xgamma@mrkschan.gmail.com ~/.local/share/cinnamon/applets/`
