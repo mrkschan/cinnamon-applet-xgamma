@@ -16,3 +16,7 @@ didn't use it because that config file is too complicated to me.
 As a result, I googled again and again, finding out that I may try to make a
 "hack", using cinnamon applet to do the task. And, here is the applet in this
 git repository.
+
+
+Note: I used the icon file from the cinnamon Brightness applet :) Thanks for
+the icon.
