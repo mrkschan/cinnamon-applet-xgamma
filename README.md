@@ -23,5 +23,6 @@ the icon.
 
 
 = Installation =
+
 copy the folder xgamma@mrkschan.gmail.com/ to ~/.local/share/cinnamon/applets/
 `cp -a xgamma@mrkschan.gmail.com ~/.local/share/cinnamon/applets/`
